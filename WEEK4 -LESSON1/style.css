@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(241, 231, 231)
+    
+}
+
+.logo img{
+    width: 50px;
+}
+
+
+.list-item {
+    display: flex;
+    flex-direction: row  ;
+    gap: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
